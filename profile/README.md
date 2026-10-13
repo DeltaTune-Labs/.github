@@ -46,7 +46,7 @@
 
   ## Links
 
-  - [Website](https://deltatune-lab.almondkoala16.chatgpt.site/)
+  - [Website](https://deltatune-lab.vercel.app)
   - [Hugging Face](https://huggingface.co/DeltaTune)
   - [LinkedIn](https://www.linkedin.com/in/deltatune-labs)
   - [Email](mailto:deltatunelabs@gmail.com)
