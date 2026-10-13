@@ -20,6 +20,14 @@
 
   ## Founders
 
+  
+  ### Syed Muhammad Sarim Ahsan
+
+  Co-founder focused on AI systems, model optimization, and research implementation.
+
+  - [GitHub](https://github.com/sarimahsan)
+  - [LinkedIn](https://www.linkedin.com/in/syed-sarim-ahsan-544198247/)
+
   ### Rao Muhammad Dayan Atif
 
   Co-founder focused on efficient AI research, model adaptation, and practical machine learning systems.
@@ -27,12 +35,6 @@
   - [GitHub](https://github.com/dayanatif)
   - [LinkedIn](https://www.linkedin.com/in/dayan-atif/)
 
-  ### Syed Muhammad Sarim Ahsan
-
-  Co-founder focused on AI systems, model optimization, and research implementation.
-
-  - [GitHub](https://github.com/sarimahsan)
-  - [LinkedIn](https://www.linkedin.com/in/syed-sarim-ahsan-544198247/)
 
   Both founders are connected with **Sir Syed University**.
 
